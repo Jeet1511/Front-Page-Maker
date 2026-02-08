@@ -1,0 +1,28 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Development files (individual template HTML files)
+1.html
+2.html
+3.html
+4.html
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: Add node_modules if you add any build tools later
+node_modules/
